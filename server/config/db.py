@@ -11,6 +11,6 @@ client = MongoClient(MONGO_URI)
 db = client[DB_NAME]
 
 
-user_collection = db.get_collection("users")
-report_collection = db.get_collection("reports")
+users_collection = db.get_collection("users")
+reports_collection = db.get_collection("reports")
 diagnosis_collection = db.get_collection("diagnoses")
