@@ -38,8 +38,9 @@ OCR / Parsing: pytesseract, pdf2image, pdfminer.six
 Auth: JWT
 
 🖼️ Screenshots
-![Signup](screenshots/signup.png)
-![Login](screenshots/login.png)
+
+
+![Signup](screenshots/signup.png)![Login](screenshots/login.png)
 ![Patient Dashboard](screenshots/patient_dashboard.png)
 
 
