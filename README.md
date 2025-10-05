@@ -1,5 +1,4 @@
-# Medical_Diagnosis
-This is the FastAPI-based backend for the Medical Diagnosis Application, which provides authentication, PDF report upload, AI-powered medical diagnosis using LLaMA 3 via Groq API, and stores metadata in MongoDB with Pinecone for vector storage.
+
 
 # 🩺 GenAI-Powered Medical Diagnosis
 
@@ -29,7 +28,7 @@ Frontend: Streamlit
 
 Backend: FastAPI (uvicorn)
 
-Database: SQLite (dev) / PostgreSQL (prod)
+Database: MongoDB
 
 AI : LangChain + LLM (Llama3 / OpenAI / Ollama)
 
